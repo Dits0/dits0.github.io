@@ -13,7 +13,7 @@
     </style>
 </head>
 <body>
-    <h1>Hi! Aditya here!</h1>
+    <h1>Hi! Aditya Lukki here!</h1>
     <p>Selamat datang di website pribadi ini.</p>
 </body>
 </html>
