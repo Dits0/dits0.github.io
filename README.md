@@ -14,6 +14,6 @@
 </head>
 <body>
     <h1>Hi! Aditya Lukki here!</h1>
-    <p>Selamat datang di website pribadi ini.</p>
+    <p>Wellcome to my own website.</p>
 </body>
 </html>
